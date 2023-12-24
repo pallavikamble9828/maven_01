@@ -1,0 +1,24 @@
+public class demo{
+
+int x=10;
+int y=20;
+
+public static void main(String[]args){
+    
+System.out.println("getaddition");
+
+}
+}
+
+public void getaddition(){
+
+x+y;
+ADDITION 1,2,3,4;
+
+
+}
+
+public void get multiplication(){
+
+x*y;
+}
